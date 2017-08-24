@@ -52,6 +52,5 @@ public class DivingRightIn
 
 		System.out.println();
 		System.out.println("That is " + age * 7 + " in dog years");
-		//hey
 	}
 }
